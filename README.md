@@ -1,8 +1,6 @@
 # ASK
 # Aim
-```
-Write the objective of the experiment.
-```
+Write a Python program for the modulation and demodulation of ASK.
 # Tools required
 # Program
 ```
